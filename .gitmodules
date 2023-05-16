@@ -3,3 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "D4TAlink.light"]
+	path = D4TAlink.light
+	url = https://bitbucket.org/sq4/d4talink.light
+	shallow = true
+	subdir = D4TAlink.light
+	registered = true
