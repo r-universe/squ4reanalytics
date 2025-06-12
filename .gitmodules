@@ -6,3 +6,7 @@
 	path = D4TAlink.light
 	url = https://bitbucket.org/sq4/d4talink.light
 	subdir = D4TAlink.light
+[submodule "alternativeROC"]
+	path = alternativeROC
+	url = https://bitbucket.org/sq4/alternativeroc
+	subdir = alternativeROC
